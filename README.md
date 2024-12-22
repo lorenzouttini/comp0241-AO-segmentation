@@ -40,3 +40,4 @@ The project is divided into the following key tasks:
 - We used the provided 2D cameras as the primary sensors, and optionally integrate data from additional sensors (e.g., LiDAR, stereo cameras).
 - We performed thorough data collection, ensuring proper calibration and environmental considerations.
 - External libraries (e.g., OpenCV) are employed.
+- In the github folder no images and videos are provided to avoid reproduction without permission. 
